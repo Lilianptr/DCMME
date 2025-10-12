@@ -1,2 +1,2 @@
-﻿SDUD/*.csv
-
+/SDUD/*.csv
+# Ignore all CSV files in the SDUD directory
