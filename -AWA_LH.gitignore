@@ -1,0 +1,6 @@
+/SDUD/*.csv
+# Ignore all CSV files in the SDUD directory
+ATC/merged_data/**
+# Ignore all files in the ATC/merged?_data directories
+#Watch out
+
