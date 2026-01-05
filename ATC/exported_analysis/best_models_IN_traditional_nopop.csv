@@ -1,0 +1,165 @@
+Target,ATC2 Class,Model,MAE
+Number of Prescriptions,A01,Historical Mean,9704.5
+Number of Prescriptions,A02,Historical Mean,12886.589285714283
+Number of Prescriptions,A03,Historical Mean,535.3392857142862
+Number of Prescriptions,A04,Seasonal Naive,5717.25
+Number of Prescriptions,A05,AutoARIMA,59.25
+Number of Prescriptions,A06,Seasonal Naive,28950.75
+Number of Prescriptions,A07,Historical Mean,11004.928571428572
+Number of Prescriptions,A09,Naive,114.5
+Number of Prescriptions,A10,Naive,7758.25
+Number of Prescriptions,A11,AutoARIMA,2140.0
+Number of Prescriptions,A12,Historical Mean,6335.25
+Number of Prescriptions,A16,SARIMA,52.0
+Number of Prescriptions,B01,Historical Mean,7231.142857142859
+Number of Prescriptions,B02,AutoARIMA,625.25
+Number of Prescriptions,B03,Historical Mean,5727.642857142859
+Number of Prescriptions,B05,Historical Mean,6155.214285714286
+Number of Prescriptions,B06,Historical Mean,173.07142857142856
+Number of Prescriptions,C01,Seasonal Naive,18472.25
+Number of Prescriptions,C02,Historical Mean,5450.4464285714275
+Number of Prescriptions,C03,AutoARIMA,4527.5
+Number of Prescriptions,C04,Naive,22.5
+Number of Prescriptions,C05,Historical Mean,2222.25
+Number of Prescriptions,C07,Historical Mean,4809.357142857145
+Number of Prescriptions,C08,Historical Mean,3464.0
+Number of Prescriptions,C09,Historical Mean,8860.071428571435
+Number of Prescriptions,C10,AutoARIMA,4587.734375
+Number of Prescriptions,D01,Naive,3979.0
+Number of Prescriptions,D02,Historical Mean,812.25
+Number of Prescriptions,D04,Historical Mean,4508.142857142857
+Number of Prescriptions,D05,Seasonal Naive,793.25
+Number of Prescriptions,D06,Naive,10535.5
+Number of Prescriptions,D07,Seasonal Naive,7440.75
+Number of Prescriptions,D08,Historical Mean,2119.589285714286
+Number of Prescriptions,D10,Historical Mean,4742.9285714285725
+Number of Prescriptions,D11,Seasonal Naive,2900.25
+Number of Prescriptions,G01,Naive,12414.75
+Number of Prescriptions,G02,Seasonal Naive,6393.25
+Number of Prescriptions,G03,Historical Mean,4376.75
+Number of Prescriptions,G04,Seasonal Naive,1279.5
+Number of Prescriptions,H01,AutoARIMA,160.25
+Number of Prescriptions,H02,Historical Mean,27014.607142857145
+Number of Prescriptions,H03,AutoARIMA,5606.25
+Number of Prescriptions,H04,AutoARIMA,93.44662475585938
+Number of Prescriptions,H05,Naive,63.25
+Number of Prescriptions,J01,Seasonal Naive,17210.5
+Number of Prescriptions,J02,AutoARIMA,3621.5185546875
+Number of Prescriptions,J04,AutoARIMA,53.308204650878906
+Number of Prescriptions,J05,Historical Mean,8355.357142857143
+Number of Prescriptions,J06,AutoARIMA,760.4908447265625
+Number of Prescriptions,L01,Seasonal Naive,2631.0
+Number of Prescriptions,L02,Seasonal Naive,2693.75
+Number of Prescriptions,L03,Naive,190.75
+Number of Prescriptions,L04,AutoARIMA,1488.0
+Number of Prescriptions,M01,Seasonal Naive,9227.0
+Number of Prescriptions,M02,Historical Mean,26676.821428571428
+Number of Prescriptions,M03,AutoARIMA,4718.9140625
+Number of Prescriptions,M04,SARIMA,393.876953125
+Number of Prescriptions,M05,Historical Mean,369.75
+Number of Prescriptions,M09,Seasonal Naive,34.5
+Number of Prescriptions,N01,AutoARIMA,668.25
+Number of Prescriptions,N02,AutoARIMA,42842.109375
+Number of Prescriptions,N03,Historical Mean,4278.5
+Number of Prescriptions,N04,AutoARIMA,471.0
+Number of Prescriptions,N05,Naive,15999.25
+Number of Prescriptions,N06,AutoARIMA,29728.21875
+Number of Prescriptions,N07,AutoARIMA,3095.5703125
+Number of Prescriptions,P01,Seasonal Naive,1690.25
+Number of Prescriptions,P02,Naive,48.0
+Number of Prescriptions,P03,SARIMA,484.12213134765625
+Number of Prescriptions,R01,Historical Mean,11240.428571428572
+Number of Prescriptions,R02,AutoARIMA,7418.0
+Number of Prescriptions,R03,Historical Mean,15057.0
+Number of Prescriptions,R05,AutoARIMA,4011.0966796875
+Number of Prescriptions,R06,Historical Mean,13845.107142857145
+Number of Prescriptions,R07,Naive,19.75
+Number of Prescriptions,S01,AutoARIMA,12634.9453125
+Number of Prescriptions,S02,Historical Mean,5299.75
+Number of Prescriptions,S03,Historical Mean,3249.75
+Number of Prescriptions,V03,Naive,12348.25
+Number of Prescriptions,V04,Historical Mean,4812.571428571428
+Number of Prescriptions,V06,SARIMA,68.42144775390625
+Number of Prescriptions,V07,AutoARIMA,73.25
+Units Reimbursed,A01,AutoARIMA,715887.1943214288
+Units Reimbursed,A02,Historical Mean,717841.4633214285
+Units Reimbursed,A03,Historical Mean,106776.35989285714
+Units Reimbursed,A04,Seasonal Naive,68413.65974999999
+Units Reimbursed,A05,Naive,3772.375
+Units Reimbursed,A06,Seasonal Naive,2110994.8950000005
+Units Reimbursed,A07,Historical Mean,173228.5479107144
+Units Reimbursed,A09,Historical Mean,35141.41071428574
+Units Reimbursed,A10,Naive,534061.3700000006
+Units Reimbursed,A11,AutoARIMA,56040.26074999999
+Units Reimbursed,A12,Historical Mean,4113741.2349999994
+Units Reimbursed,A16,Naive,13924.589250000005
+Units Reimbursed,B01,Seasonal Naive,186748.6372499999
+Units Reimbursed,B02,Naive,140690.2699999999
+Units Reimbursed,B03,Historical Mean,207459.06760714282
+Units Reimbursed,B05,Historical Mean,4903504.8806607155
+Units Reimbursed,B06,Historical Mean,11726.202250000002
+Units Reimbursed,C01,Seasonal Naive,1238674.1455
+Units Reimbursed,C02,Historical Mean,379026.1821607144
+Units Reimbursed,C03,AutoARIMA,253505.218
+Units Reimbursed,C04,Seasonal Naive,1584.75
+Units Reimbursed,C05,Historical Mean,83930.97876785713
+Units Reimbursed,C07,AutoARIMA,283632.3333544701
+Units Reimbursed,C08,Naive,184286.5
+Units Reimbursed,C09,Historical Mean,620842.0923035715
+Units Reimbursed,C10,Naive,366626.27899999986
+Units Reimbursed,D01,Naive,318393.94225
+Units Reimbursed,D02,AutoARIMA,93595.897
+Units Reimbursed,D04,Naive,29235.158999999985
+Units Reimbursed,D05,Seasonal Naive,14450.425
+Units Reimbursed,D06,Historical Mean,304335.6812499999
+Units Reimbursed,D07,Seasonal Naive,384594.8322499999
+Units Reimbursed,D08,AutoARIMA,994266.5
+Units Reimbursed,D10,Historical Mean,121730.72157142858
+Units Reimbursed,D11,Seasonal Naive,238330.66199999998
+Units Reimbursed,G01,Seasonal Naive,662457.7180000001
+Units Reimbursed,G02,Seasonal Naive,365264.68525
+Units Reimbursed,G03,Naive,263093.2922500002
+Units Reimbursed,G04,SARIMA,460850.8833346884
+Units Reimbursed,H01,AutoARIMA,11328.52925
+Units Reimbursed,H02,Historical Mean,653317.0576785714
+Units Reimbursed,H03,AutoARIMA,150932.40216563293
+Units Reimbursed,H04,Seasonal Naive,59.599999999999966
+Units Reimbursed,H05,AutoARIMA,6738.085
+Units Reimbursed,J01,Seasonal Naive,922641.6575000002
+Units Reimbursed,J02,Historical Mean,41612.503857142845
+Units Reimbursed,J04,AutoARIMA,2447.3171470216894
+Units Reimbursed,J05,SARIMA,385511.01675000007
+Units Reimbursed,J06,Historical Mean,20734.482892857148
+Units Reimbursed,L01,Seasonal Naive,91818.08075
+Units Reimbursed,L02,Seasonal Naive,65029.38625
+Units Reimbursed,L03,AutoARIMA,282.62252777777763
+Units Reimbursed,L04,AutoARIMA,45929.09400000004
+Units Reimbursed,M01,Seasonal Naive,575548.22575
+Units Reimbursed,M02,Historical Mean,1657630.6452499996
+Units Reimbursed,M03,Naive,248263.21175000025
+Units Reimbursed,M04,SARIMA,30114.175893180756
+Units Reimbursed,M05,Seasonal Naive,3566.165
+Units Reimbursed,M09,AutoARIMA,2848.8258638029047
+Units Reimbursed,N01,Historical Mean,17302.332499999997
+Units Reimbursed,N02,AutoARIMA,1444239.4900000012
+Units Reimbursed,N03,Naive,384889.48999999976
+Units Reimbursed,N04,AutoARIMA,25711.625
+Units Reimbursed,N05,Naive,619118.6524999999
+Units Reimbursed,N06,AutoARIMA,860305.7999090683
+Units Reimbursed,N07,AutoARIMA,141841.02925000002
+Units Reimbursed,P01,Historical Mean,34891.21942857151
+Units Reimbursed,P02,Seasonal Naive,1107.75
+Units Reimbursed,P03,Naive,73144.625
+Units Reimbursed,R01,Historical Mean,241404.90414285712
+Units Reimbursed,R02,Historical Mean,558878.7755714284
+Units Reimbursed,R03,Historical Mean,1410086.955714282
+Units Reimbursed,R05,AutoARIMA,275941.1807315424
+Units Reimbursed,R06,Historical Mean,976719.0298928581
+Units Reimbursed,R07,Naive,1512.0
+Units Reimbursed,S01,Historical Mean,663280.2006428568
+Units Reimbursed,S02,Seasonal Naive,934672.743
+Units Reimbursed,S03,AutoARIMA,1601862.162357143
+Units Reimbursed,V03,AutoARIMA,347932.83135714283
+Units Reimbursed,V04,Historical Mean,140286.13321428577
+Units Reimbursed,V06,Naive,33663.5
+Units Reimbursed,V07,Naive,30324.7785
