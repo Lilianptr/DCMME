@@ -1,0 +1,66 @@
+{
+  "LightGBM": {
+    "model_params": {
+      "n_estimators": 214,
+      "max_depth": 7,
+      "learning_rate": 0.0342498720544241,
+      "num_leaves": 14,
+      "min_child_samples": 50,
+      "reg_alpha": 4.069708559818454e-05,
+      "reg_lambda": 0.0815432793494356,
+      "subsample": 0.6574474145884203,
+      "colsample_bytree": 0.9721130379656803
+    },
+    "lags": [
+      1,
+      2,
+      4
+    ],
+    "cv_mae": 0.19573485516787614
+  },
+  "XGBoost": {
+    "model_params": {
+      "n_estimators": 147,
+      "max_depth": 7,
+      "learning_rate": 0.0631738803960858,
+      "min_child_weight": 27,
+      "reg_alpha": 2.1740603393614594e-08,
+      "reg_lambda": 0.0030351983928692196,
+      "gamma": 5.880031833971141e-06,
+      "subsample": 0.7978597615344614,
+      "colsample_bytree": 0.6938148554138923
+    },
+    "lags": [
+      1,
+      2,
+      4
+    ],
+    "cv_mae": 0.19090147982248024
+  },
+  "RandomForest": {
+    "model_params": {
+      "n_estimators": 53,
+      "max_depth": 14,
+      "min_samples_leaf": 15,
+      "min_samples_split": 19,
+      "max_features": 0.4138181237412488
+    },
+    "lags": [
+      1,
+      2,
+      4
+    ],
+    "cv_mae": 0.1702292769340677
+  },
+  "Ridge": {
+    "model_params": {
+      "alpha": 0.23435354699529345
+    },
+    "lags": [
+      1,
+      2,
+      4
+    ],
+    "cv_mae": 0.23070144491666322
+  }
+}
